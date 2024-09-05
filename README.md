@@ -8,3 +8,4 @@ The chatbot is designed to integrate with the OpenAI API to provide more fluent 
 ![image](https://github.com/ArinaYe/Django-based-chatbot/blob/main/pics/chat%20interface.png)
 
 ## setting page
+![image](https://github.com/ArinaYe/Django-based-chatbot/blob/main/pics/setting.png)
